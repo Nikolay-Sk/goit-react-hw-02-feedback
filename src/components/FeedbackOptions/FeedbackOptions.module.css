@@ -1,0 +1,8 @@
+.button {
+  margin: 0 0 30px;
+  padding: 0;
+  cursor: pointer;
+  width: 150px;
+  text-transform: uppercase;
+  border-radius: 3px;
+}
